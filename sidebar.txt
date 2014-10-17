@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mmb:home|Door43 (mmb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mmb|d43-mmb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mmb/archive/master.zip|d43-mmb.zip]]
+
+**Recent Changes**
+{{changes>ns = mmb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mmb|Ethnologue data]]
+
